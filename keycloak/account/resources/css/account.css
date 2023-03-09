@@ -12,6 +12,10 @@ body {
 header .navbar {
     margin-bottom: 0;
     min-height: inherit;
+<<<<<<< HEAD
+    background-color: #FFF;
+=======
+>>>>>>> theme
 }
 
 .header .container {
@@ -34,7 +38,11 @@ header .navbar {
 }
 
 .navbar-pf .navbar-utility > li > a {
+<<<<<<< HEAD
+    color: #000 !important;
+=======
     color: #fff !important;
+>>>>>>> theme
     padding-bottom: 12px;
     padding-top: 11px;
     border-left: medium none;
